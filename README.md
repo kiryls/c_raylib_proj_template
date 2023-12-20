@@ -4,4 +4,6 @@
 
 ## Installation
 
-## Roadmap
+## Features
+- [!] feature1
+- [ ] feature2
